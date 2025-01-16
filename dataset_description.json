@@ -1,5 +1,8 @@
 {
     "Name": "The Test dataset",
     "BIDSVersion": "1.0.1",
-    "Authors": []
+    "Authors": [
+        "Jianxun Ren"
+    ],
+    "License": "CC0"
 }

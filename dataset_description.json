@@ -1,5 +1,5 @@
 {
-    "Name": "The Test dataset",
+    "Name": "The DBS-fMRI dataset",
     "BIDSVersion": "1.0.1",
     "Authors": [
         "Jianxun Ren"

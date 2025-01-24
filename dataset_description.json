@@ -1,5 +1,5 @@
 {
-    "Name": "The DBS-fMRI dataset",
+    "Name": "Precision imaging of individual human brains during deep brain stimulation (open-DBS)",
     "BIDSVersion": "1.0.1",
     "Authors": [
         "Jianxun Ren",

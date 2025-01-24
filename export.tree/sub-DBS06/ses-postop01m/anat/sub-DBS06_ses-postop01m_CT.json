@@ -1,0 +1,28 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "UIH",
+	"ManufacturersModelName": "uCT 760",
+	"DeviceSerialNumber": "600025",
+	"BodyPart": "HEAD",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "CT 002.001",
+	"SeriesDescription": "0.625 x 0.625",
+	"ProtocolName": "Head Helical",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL", "HELICAL"],
+	"SeriesNumber": 202,
+	"AcquisitionTime": "18:32:49.455000",
+	"AcquisitionNumber": 2,
+	"ConvolutionKernel": "H_SOFT_B",
+	"ExposureTime": 1.28,
+	"XRayExposure": 295,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"BidsGuess": ["CT","CT"],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20241211"
+}

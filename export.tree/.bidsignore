@@ -1,0 +1,5 @@
+**/anat/*_CT.*
+**/derivatives/**
+**/sourcedata/**
+.DS_Store
+
